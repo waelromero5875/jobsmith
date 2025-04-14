@@ -5,3 +5,4 @@ description = "針對台灣求職市場的開源多代理 AI 求職 co-pilot：�
 requires-python = ">=3.10"
 # drop an unused branch
 # handle the edge case from the last release
+# match the style used in the rest of the module
